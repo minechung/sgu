@@ -26,7 +26,7 @@ export default {
       name: "",
       data: "",
       newscontent: "",
-      prePage: " ",
+      prePage: " ",  
       nextPage: " ",
       imgurl: "",
       nextid: "",
